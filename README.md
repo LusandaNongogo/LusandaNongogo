@@ -13,8 +13,19 @@ I'm doing an MCom in Financial Technology at Wits (expected December 2026), afte
 
 ## Experience
 
-**Product Manager, Asap Online**
-E-commerce and rapid delivery.
+**Product Management**
+- Product Manager in e-commerce and rapid delivery
+
+**Business And Data Analysis**
+- Data analysis and forecasting in Python and R
+- Requirements gathering and process mapping
+
+**Financial Services**
+- Worked with financial products across lending, investments and payments
+
+**FinTech And Blockchain**
+- Built Sgubhu, an early payment tool for artists delivered over WhatsApp
+- Built ImmunChain, a blockchain startup prototype
 
 ## Skills
 
