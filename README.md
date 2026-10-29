@@ -1,16 +1,38 @@
-## Hi there 👋
+# Lusanda Nongogo
 
-<!--
-**LusandaNongogo/LusandaNongogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FinTech and blockchain developer based in Johannesburg, moving to Cape Town.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm doing an MCom in Financial Technology at Wits (expected December 2026), after a BCom (Hons) in Business Finance. I'm interested in credit risk, payments and blockchain, and especially in building credit and payment tools for people that traditional lenders overlook.
+
+## Highlights
+
+- **Winner, Fak'ugesi AI & Music Business Hackathon 2026** with Sgubhu (Team Leadwood), a WhatsApp tool that pays South African artists early on money that is already on its way to them.
+- **4th Best Project, University of Zurich Deep Dive into Blockchain summer school** for ImmunChain, my startup prototype.
+
+## Experience
+
+**Product Manager, Asap Online**
+E-commerce and rapid delivery.
+
+## Skills
+
+| Area | Tools |
+| --- | --- |
+| Languages | Python, SQL, R, C# |
+| Python | pandas, numpy, scikit-learn |
+| Analytics | Excel VBA, Power BI |
+
+## Projects
+
+| Project | What It Is |
+| --- | --- |
+| [Credit Risk Scorecard](https://github.com/LusandaNongogo/credit-risk-scorecard) | Application PD scorecard with WoE binning, logistic regression, full validation (AUC, Gini, KS, PSI, calibration), an NCR style affordability check and IFRS 9 expected credit loss |
+
+More on the way.
+
+## Contact
+
+- LinkedIn: [add your LinkedIn URL]
+- Email: [add your email]
