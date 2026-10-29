@@ -52,7 +52,7 @@ I'm doing an MCom in Financial Technology at Wits (expected December 2026), afte
 | [Credit Risk Scorecard](https://github.com/LusandaNongogo/credit-risk-scorecard) | PD scorecard with full validation, an NCR style affordability check and IFRS 9 expected credit loss |
 | [Payments SQL Analytics](https://github.com/LusandaNongogo/payments-sql-analytics) | Settlement reconciliation, failed payments, retry recovery and chargebacks in SQL, with a Power BI design |
 | [KYC Onboarding Case Study](https://github.com/LusandaNongogo/kyc-onboarding-case-study) | BRD, process maps, risk rating, user stories, UAT pack, defect log and sign off for a FICA compliant onboarding redesign |
-| [Emissions MRV](https://github.com/LusandaNongogo/emissions-mrv-fine7079a) | Decentralised GHG measurement, reporting and verification with smart contracts on Sepolia |
+| [Emissions MRV](https://github.com/LusandaNongogo/emissions-mrv) | Decentralised GHG measurement, reporting and verification with smart contracts on Sepolia |
 
 ## Contact
 
