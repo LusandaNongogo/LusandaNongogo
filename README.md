@@ -46,13 +46,14 @@ I'm doing an MCom in Financial Technology at Wits (expected December 2026), afte
 | Blockchain | Smart contracts, Ethereum (Sepolia), Cardano, Hedera Certified Foundation |
 
 ## Projects
-
 | Repo | What It Is |
 | --- | --- |
+| [AML Transaction Monitoring](https://github.com/LusandaNongogo/aml-transaction-monitoring) | Structuring, mule and dormant account rules, alert triage model, anomaly review and a tuning memo, with stokvels as realistic false positives |
 | [Credit Risk Scorecard](https://github.com/LusandaNongogo/credit-risk-scorecard) | PD scorecard with full validation, an NCR style affordability check and IFRS 9 expected credit loss |
+| [Payments SQL Analytics](https://github.com/LusandaNongogo/payments-sql-analytics) | Settlement reconciliation, failed payments, retry recovery and chargebacks in SQL, with a Power BI design |
+| [KYC Onboarding Case Study](https://github.com/LusandaNongogo/kyc-onboarding-case-study) | BRD, process maps, risk rating, user stories, UAT pack, defect log and sign off for a FICA compliant onboarding redesign |
 | [Emissions MRV](https://github.com/LusandaNongogo/emissions-mrv-fine7079a) | Decentralised GHG measurement, reporting and verification with smart contracts on Sepolia |
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/lusanda-nongogo-8a5b4b25a](https://www.linkedin.com/in/lusanda-nongogo-8a5b4b25a)
-- Email: [lnongogo@gmail.com](mailto:lnongogo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lusanda-nongogo-8a5b4b25a) · [lnongogo@gmail.com](mailto:lnongogo@gmail.com)
