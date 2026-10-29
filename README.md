@@ -24,6 +24,14 @@ I'm doing an MCom in Financial Technology at Wits (expected December 2026), afte
 **IT And Information Risk**
 - **IT Engineer Intern** at a regulated credit bureau (2021 to 2023): systems support within SLAs, secure backups, role based access management and digital asset tracking.
 
+**Projects And Research**
+- **Team Advisor and co-builder, Sgubhu** (2026): co-built the hackathon winning prototype and advised on FinTech, revenue mechanics and operations.
+- **Business Analyst and builder, Spaza Sa Manyora**: requirements, BRDs and a working management system for township spaza shops.
+- **Product Designer, iMali Safe**: problem definition, user stories and interface design for a gamified savings app.
+- **Solution Architect, Emissions MRV**: smart contract based GHG reporting and verification on Ethereum Sepolia.
+- **Researcher, Cardano Stake Concentration** (MCom): measured stake concentration on Cardano against Ethereum, 2020 to 2026.
+- **Business Analyst, university systems**: ticket logging analysis and a Lean Six Sigma redesign of a consultations process.
+
 **Marketing And Communications**
 - **Marketing and Communications Strategist** for a university FinTech society (2026 to present): industry partnerships and explaining blockchain and payments to students, sponsors and executives.
 - **Marketing Operations and Brand Ambassador** in media (2023 to 2026): brand activations, campaign operations and performance tracking.
@@ -39,13 +47,10 @@ I'm doing an MCom in Financial Technology at Wits (expected December 2026), afte
 
 ## Projects
 
-| Project | What It Is |
+| Repo | What It Is |
 | --- | --- |
 | [Credit Risk Scorecard](https://github.com/LusandaNongogo/credit-risk-scorecard) | PD scorecard with full validation, an NCR style affordability check and IFRS 9 expected credit loss |
 | [Emissions MRV](https://github.com/LusandaNongogo/emissions-mrv-fine7079a) | Decentralised GHG measurement, reporting and verification with smart contracts on Sepolia |
-| Cardano Stake Concentration | MCom research paper comparing stake concentration on Cardano and Ethereum, 2020 to 2026 |
-| Spaza Sa Manyora | Management system for township spaza shops, built for thin margins and patchy connectivity |
-| iMali Safe | Gamified savings and financial education web app |
 
 ## Contact
 
