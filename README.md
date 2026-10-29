@@ -34,5 +34,5 @@ More on the way.
 
 ## Contact
 
-- LinkedIn: [add your LinkedIn URL]
-- Email: [add your email]
+- LinkedIn: [linkedin.com/in/lusanda-nongogo-8a5b4b25a](https://www.linkedin.com/in/lusanda-nongogo-8a5b4b25a)
+- Email: [lnongogo@gmail.com](mailto:lnongogo@gmail.com)
