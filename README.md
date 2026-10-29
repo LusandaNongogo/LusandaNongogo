@@ -25,8 +25,8 @@ I'm doing an MCom in Financial Technology at Wits (expected December 2026), afte
 - **IT Engineer Intern** at a regulated credit bureau (2021 to 2023): systems support within SLAs, secure backups, role based access management and digital asset tracking.
 
 **Projects And Research**
-- **Team Advisor and co-builder, Sgubhu** (2026): co-built the hackathon winning prototype and advised on FinTech, revenue mechanics and operations.
-- **Business Analyst and builder, Spaza Sa Manyora**: requirements, BRDs and a working management system for township spaza shops.
+- **Builder, Sgubhu** (2026): built the hackathon winning prototype, covering the FinTech, revenue mechanics and operations.
+- **Business Analyst and co-builder, Spaza Sa Manyora**: requirements, BRDs and a working management system for township spaza shops.
 - **Product Designer, iMali Safe**: problem definition, user stories and interface design for a gamified savings app.
 - **Solution Architect, Emissions MRV**: smart contract based GHG reporting and verification on Ethereum Sepolia.
 - **Researcher, Cardano Stake Concentration** (MCom): measured stake concentration on Cardano against Ethereum, 2020 to 2026.
